@@ -1,0 +1,14 @@
+git add . - добавить изменения
+git commit - сохранение изменений локально
+git push - сохранение изменений удаленно
+git remote add origin "url" - подключиться к репозиторию
+git config --global user.name <>/ user.email <> - добавить пользовательские даныне для пуша и коммитов
+git fetch --prune - информация об удаленных ветках и удаляет ссылки на удаленные ветки
+git pull - обновление ветки
+git checkout -b/ git switch -c - создать и переключиться
+git checkout / git switch - просто переключиться
+git branch - все ветки
+git show - показывает хеш
+git log / git log --oneline - изменения веток и коммиты
+git status - изменения 
+git checkout -d / git switch -d - удалить ветку
